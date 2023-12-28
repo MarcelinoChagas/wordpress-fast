@@ -13,9 +13,9 @@ Vagrant (latest)
 ## 🚀 Começando
 Com o vagrant já instalado execute os 3x passos abaixo:
 
-** 01 Passo - Baixe arquivos 'VagrantFile' e 'provision.sh'.
-** 02 Passo - Coloque os arquivos dentro de um mesmo diretório
-** 03 Passo - Execute o comando 'vagrant up'
+* **01 Passo** - Baixe arquivos 'VagrantFile' e 'provision.sh'.
+* **02 Passo** - Coloque os arquivos dentro de um mesmo diretório
+* **03 Passo** - Execute o comando 'vagrant up'
 
 Será realizada a configuração do seu wordpress e ao final será exibido 1 IP, que você possa testar o mesmo.
 
